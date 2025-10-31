@@ -1,0 +1,1 @@
+gcc app.c -std=gnu99 -o app.exe
